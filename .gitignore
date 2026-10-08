@@ -66,3 +66,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local bundled toolchains and macOS metadata
+tools/
+.DS_Store
+
+# Generated screenshots
+screenshot_*.png

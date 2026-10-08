@@ -1,0 +1,7 @@
+metric,fixed_mean,fixed_sd,smart_mean,smart_sd,improvement_pct
+Avg wait per signal (s),8.35148,0.25546,2.18691,0.124628,73.8141
+Avg trip delay (s),25.757,0.982601,7.06377,0.352984,72.5754
+Emergency stopped time (s),32.0252,3.03043,0.53415,0.293873,98.3321
+Trips completed,931.8,24.1495,1072.6,21.0309,15.1105
+Vehicles stuck at gates,113.2,33.922,0.4,0.547723,99.6466
+Idle CO2 (kg),32.2366,5.27482,4.53514,0.341388,85.9317
